@@ -245,12 +245,8 @@ body {
   /* letter-spacing: var(--ls-xl); */
   font-weight: 600;
   color: #000;
-<<<<<<< HEAD
-  margin-bottom: 16px;
-=======
   margin-top: 105px;
   margin-bottom: 20px;
->>>>>>> f03b71a90437779d944f43a295c7869ce755dc11
 }
 
 .hero-section .h6 {
@@ -665,13 +661,6 @@ body {
   height: 384px;
 }
 
-<<<<<<< HEAD
-=======
-/* .feature-card1:hover {
-  transition: all 0.3s ease;
-  transform: translateY(-3px);
-} */
->>>>>>> f03b71a90437779d944f43a295c7869ce755dc11
 
 .feature-card-container .row-1 {
   display: flex;
@@ -986,11 +975,7 @@ body {
 .customer-heading-main {
   display: flex;
   flex-direction: row;
-<<<<<<< HEAD
   justify-content: space-between;
-=======
-  gap: 500px;
->>>>>>> f03b71a90437779d944f43a295c7869ce755dc11
 }
 
 .customer-heading {
@@ -1144,13 +1129,8 @@ body {
   flex-direction: column;
   justify-content: flex-end;
   align-items: bottom;
-<<<<<<< HEAD
-     margin-left: 155px;
-    margin-top: 439px;
-=======
   margin-left: 128px;
   margin-top: 406px;
->>>>>>> f03b71a90437779d944f43a295c7869ce755dc11
 }
 
 .showcase-text h2 {
@@ -1171,13 +1151,10 @@ body {
   width: 100%;
   height: auto;
   margin-top: 32px;
-<<<<<<< HEAD
 }
 
 .claim-time {
   color: #ffffff !important;
-=======
->>>>>>> f03b71a90437779d944f43a295c7869ce755dc11
 }
 
 .claim-btn-text {

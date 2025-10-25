@@ -255,6 +255,7 @@
   .customer-2 {
     width: 300px;
     height: 300px;
+    margin-left: 30px;
   }
 
   .customer-card-1,
@@ -477,6 +478,7 @@
   .hero-section .h1 {
     font-size: 38px;
     line-height: 30px;
+    margin-top: 0;
   }
 
   .hero-section .h6 {
@@ -870,7 +872,7 @@
   }
 
   .footer-main .left {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 
   .footer-main .contact-label {
@@ -1254,6 +1256,7 @@ padding: 0;
       .customer-1, .customer-2 {
         width: 250px;
         height: 250px;
+        margin-left: 0;
     }
 
     .customer-1-img, .customer-2-img {
